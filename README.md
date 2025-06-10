@@ -1,1 +1,1 @@
-# UI-UX-Designs
+# UIUXDesigns
